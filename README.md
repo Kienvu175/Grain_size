@@ -1,4 +1,3 @@
-![image](https://github.com/Kienvu175/Grain_size/assets/97751972/af9dfad6-be72-43cf-9117-7c67797ec836)# Grain_size
 1. The basis : What is Grain size ?
     - Grain size refers to the size of individual crystal that make up a metalline material. These grains, crystal are building the blocks of materials. Their characteristics can profoundly influence the properties of the material as a whole. By understanding and controlling the grain size, materials engineers can optimize materials for specific applications.
     - Grain size can be measured by methods, but we chose Microstructure techniques
